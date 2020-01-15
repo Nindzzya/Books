@@ -26,3 +26,4 @@ git push -u origin master
 git pull origin master, а потом git push origin master, если всё ок.
 
 1
+2
